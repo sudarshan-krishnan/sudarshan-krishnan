@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshan-krishnan&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan-krishnan" /> </p>
 
+- 🔭 I’m currently working on [My Portfolio Website](sudarshan-krishnan.github.io)
+
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+
 - 👨‍💻 All of my projects are available at [https://github.com/sudarshan-krishnan](https://github.com/sudarshan-krishnan)
 
 - 📫 How to reach me **k.sudarshan2904@gmail.com**
