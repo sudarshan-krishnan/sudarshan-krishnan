@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudarshan-krishnan](https://github.com/sudarshan-krishnan)
 
-- 📫 How to reach me **k.sudarshan2904@gmail.com**
+- 📫 How to reach me **sudarshankrishnan123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
