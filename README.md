@@ -24,8 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan-krishnan&show_icons=true&locale=en&layout=compact" alt="sudarshan-krishnan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshan-krishnan&show_icons=true&locale=en" alt="sudarshan-krishnan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudarshan-krishnan&show_icons=true&locale=en" alt="sudarshan-krishnan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-krishnan&" alt="sudarshan-krishnan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-krishnan&" alt="sudarshan-krishnan" /></p>
 
 <p><a href="https://www.buymeacoffee.com/sudarshan.k"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudarshan.k" /></a></p><br><br>
