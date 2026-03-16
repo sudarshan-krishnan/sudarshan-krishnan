@@ -1,62 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a0533,60:2d0a6b,100:0d0d2b&height=220&section=header&text=Sudarshan%20Krishnan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=CS%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Mathematics%20%40%20Purdue%20University&descColor=c084fc&descSize=17&animation=fadeIn&stroke=6d28d9&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1408,30:3a2008,60:cfb36e,100:1c1408&height=220&section=header&text=Sudarshan%20Krishnan&fontSize=58&fontColor=f5ecd4&fontAlignY=36&desc=CS%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Mathematics%20%40%20Purdue%20University&descColor=cfb36e&descSize=17&animation=fadeIn" width="100%" />
 
 <br/>
 
 <a href="https://sudarshan-krishnan.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-%23a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/Portfolio-sudarshan--krishnan.vercel.app-cfb36e?style=for-the-badge&logo=vercel&logoColor=f5ecd4&labelColor=1c1408" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/sudarshankrishnan123">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-cfb36e?style=for-the-badge&logo=linkedin&logoColor=f5ecd4&labelColor=1c1408" />
 </a>
+&nbsp;
 <a href="mailto:k.sudarshan2904@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" />
+  <img src="https://img.shields.io/badge/Email-k.sudarshan2904%40gmail.com-cfb36e?style=for-the-badge&logo=gmail&logoColor=f5ecd4&labelColor=1c1408" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=a855f7&center=true&vCenter=true&multiline=false&random=false&width=620&height=40&lines=ML+Engineer+%7C+Full-Stack+Developer;Healthcare+AI+%E2%80%A2+Defense+Systems+%E2%80%A2+Supply+Chain+ML;Toyota+%E2%80%A2+BAE+Systems+%E2%80%A2+Medical+Informatics+Eng.;Triple+Major+%40+Purdue+%E2%80%A2+Honors+Program;Building+production+systems+that+matter." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=CFB36E&center=true&vCenter=true&width=620&height=40&lines=ML+Engineer+%7C+Full-Stack+Developer;Healthcare+AI+%E2%80%A2+Defense+Systems+%E2%80%A2+Supply+Chain+ML;Toyota+%E2%80%A2+BAE+Systems+%E2%80%A2+Medical+Informatics+Eng.;Triple+Major+%40+Purdue+%E2%80%A2+Honors+Program;Building+production+systems+that+matter." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sudarshan-krishnan&label=Profile+Views&color=6d28d9&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=sudarshan-krishnan&label=Profile+Views&color=cfb36e&style=flat-square&labelColor=1c1408" />
 
 </div>
 
 ---
 
-<div align="center">
+## 👤 About
 
-### 🧬 `whoami`
-
-</div>
-
-```python
-class Sudarshan:
-    name        = "Sudarshan Krishnan"
-    location    = "West Lafayette, IN  🇺🇸"
-    university  = "Purdue University — Honors Program"
-    degrees     = ["B.S. Computer Science", "B.S. Data Science & Applied Statistics", "B.S. Mathematics"]
-    graduation  = 2027
-
-    experience  = {
-        "Toyota Connected NA":       "Vision-language models • Bayesian inference • 200K+ log analysis",
-        "BAE Systems (Co-Op)":       "ML demand forecasting • R²=0.928 • 74-outstation supply chain",
-        "Medical Informatics Eng.":  "HL7/FHIR EHR • Hemophilia prediction • Multi-omics microservices",
-    }
-
-    research    = ["Hemophilia genetic risk modeling", "Circular food waste analytics"]
-    languages   = ["Python", "Java", "JavaScript", "TypeScript", "C", "SQL"]
-    interests   = ["Healthcare AI", "Predictive Systems", "Computer Vision", "Full-Stack Dev"]
-    currently   = "Building ML + full-stack systems that ship to real users"
-    fun_fact    = "Triple major. Still sleeping — occasionally."
-
-    def mission(self) -> str:
-        return "Build things that matter. Ship things that work."
-```
-
-<br/>
+> **Sudarshan Krishnan** &nbsp;·&nbsp; Purdue University, Class of 2027
+>
+> `B.S. Computer Science` &nbsp;`B.S. Data Science & Applied Statistics` &nbsp;`B.S. Mathematics` &nbsp;`Honors Program`
+>
+> ---
+>
+> I'm a triple-major Honors student at Purdue building at the intersection of **machine learning** and systems that actually ship — from demand forecasting for defense supply chains to EHR interoperability at healthcare companies.
+>
+> | | |
+> |:--|:--|
+> | 📍 **Location** | West Lafayette, IN |
+> | 🎓 **Graduating** | May 2027 |
+> | 💡 **Focus** | Healthcare AI · Predictive Systems · Computer Vision · Full-Stack Dev |
+> | 🛠️ **Languages** | Python · Java · JavaScript · TypeScript · C · SQL |
+> | 🏢 **Experience** | Toyota Connected NA · BAE Systems · Medical Informatics Eng. |
+> | 🔬 **Research** | Hemophilia genetic risk modeling · Circular food waste analytics |
+> | ⚡ **Currently** | Building ML + full-stack systems that ship to real users |
+> | 😄 **Fun fact** | Triple major. Still sleeping — occasionally. |
+>
+> *"Build things that matter. Ship things that work."*
 
 ---
 
@@ -147,21 +140,21 @@ class Sudarshan:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudarshan-krishnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=a855f7&icon_color=c084fc&text_color=e2d9f3&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudarshan-krishnan&show_icons=true&hide_border=true&bg_color=1c1408&title_color=cfb36e&icon_color=cfb36e&text_color=f5ecd4&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-krishnan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=a855f7&text_color=e2d9f3&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-krishnan&layout=compact&hide_border=true&bg_color=1c1408&title_color=cfb36e&text_color=f5ecd4&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sudarshan-krishnan&theme=tokyonight&hide_border=true&background=0d0d1f&stroke=7c3aed&ring=a855f7&fire=f472b6&currStreakLabel=e2d9f3&sideLabels=c084fc&dates=8b94c1" />
+<img src="https://streak-stats.demolab.com?user=sudarshan-krishnan&hide_border=true&background=1c1408&stroke=3a2c14&ring=cfb36e&fire=e8a020&currStreakLabel=f5ecd4&sideLabels=cfb36e&dates=8a7050" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-krishnan&bg_color=0d0d1f&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=4c1d95&hide_border=true" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-krishnan&bg_color=1c1408&color=cfb36e&line=8a6020&point=cfb36e&area=true&area_color=3a2008&hide_border=true" width="96%" />
 
 </div>
 
@@ -242,9 +235,9 @@ class Sudarshan:
 
 <div align="center">
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20A--Z%202023-Neural%20Networks%20%26%20ChatGPT-a855f7?style=flat-square&logo=udemy&logoColor=white&labelColor=0a0a1a)
-![CLT](https://img.shields.io/badge/Clinical%20Laboratory%20Technician-CLT%20Certified-22d3ee?style=flat-square&logoColor=white&labelColor=0a0a1a)
-![C Programming](https://img.shields.io/badge/C%20Programming-Master%20the%20C%20Language-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0a0a1a)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20A--Z%202023-Neural%20Networks%20%26%20ChatGPT-cfb36e?style=flat-square&logo=udemy&logoColor=white&labelColor=1c1408)
+![CLT](https://img.shields.io/badge/Clinical%20Laboratory%20Technician-CLT%20Certified-cfb36e?style=flat-square&logoColor=white&labelColor=1c1408)
+![C Programming](https://img.shields.io/badge/C%20Programming-Master%20the%20C%20Language-cfb36e?style=flat-square&logo=c&logoColor=white&labelColor=1c1408)
 
 </div>
 
@@ -252,6 +245,6 @@ class Sudarshan:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,40:2d0a6b,70:1a0533,100:0a0a1a&height=140&section=footer&text=Let%27s%20build%20something%20that%20matters.&fontSize=18&fontColor=c084fc&fontAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1408,50:3a2008,100:1c1408&height=140&section=footer&text=Let%27s%20build%20something%20that%20matters.&fontSize=18&fontColor=cfb36e&fontAlignY=65&animation=twinkling" width="100%" />
 
 </div>
