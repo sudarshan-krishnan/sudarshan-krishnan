@@ -4,7 +4,6 @@
 
 <br/>
 
-
 <a href="https://sudarshan-krishnan.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-sudarshan--krishnan.vercel.app-cfb36e?style=for-the-badge&logo=vercel&logoColor=f5ecd4&labelColor=1c1408" />
 </a>
