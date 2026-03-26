@@ -1,5 +1,4 @@
-
-<div align="center">
+< div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1408,30:3a2008,60:cfb36e,100:1c1408&height=220&section=header&text=Sudarshan%20Krishnan&fontSize=58&fontColor=f5ecd4&fontAlignY=36&desc=CS%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Mathematics%20%40%20Purdue%20University&descColor=cfb36e&descSize=17&animation=fadeIn" width="100%" />
 
