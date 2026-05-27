@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=CFB36E&center=true&vCenter=true&width=720&height=42&lines=Incoming+ML+Engineer+Intern+%40+IBM+%E2%80%A2+Summer+2026;Ex-Toyota+%E2%80%A2+Ex-BAE+Systems+%E2%80%A2+Ex-Medical+Informatics+Engineering;Triple+Major%3A+CS+%2B+Data+Science+%2B+Mathematics+%40+Purdue+Honors;5x+Hackathon+Winner+%E2%80%A2+LA+Hacks+1st+%E2%80%A2+MakeUC+3x+Winner;Building+production+ML+systems+that+actually+ship." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=CFB36E&center=true&vCenter=true&width=720&height=42&lines=Incoming+ML+Engineer+Intern+%40+IBM+%E2%80%A2+Summer+2026;Ex-Toyota+%E2%80%A2+Ex-BAE+Systems+%E2%80%A2+Ex-Medical+Informatics+Engineering;Triple+Major%3A+CS+%2B+Data+Sc+%2B+Mathematics+%40+Purdue+Honors;5x+Hackathon+Winner+%E2%80%A2+LA+Hacks+1st+%E2%80%A2+MakeUC+3x+Winner;Building+production+ML+systems+that+actually+ship." />
 
 <br/>
 
